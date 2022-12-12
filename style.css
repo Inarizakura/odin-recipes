@@ -1,0 +1,24 @@
+* {
+    background-color: beige;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.recipe-list, .recipe-ingredients, .recipe-steps {
+    border-style: groove;
+    border-radius: 5px;
+    border-color: antiquewhite;
+    padding: 2em;
+}
+
+.recipe-title {
+    text-align: center;
+}
+
+.recipe-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: groove;
+    border-radius: 1em;
+    border-color: dimgray;
+}
